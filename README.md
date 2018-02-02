@@ -9,3 +9,7 @@ The scope of the system is set to social media sites, in particular a site calle
 •	Web-scraping: This component of the system deals with extraction of all the content related to the entered search term from the web.
 
 •	Summarization: The tweets collected after filtration are mapped on pre-existing web-based via web scraping content to provide a generalized view which is then followed by summarization of top trending tweets to provide an overview of the opinions of twitter users.
+
+
+
+
